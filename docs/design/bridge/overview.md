@@ -18,7 +18,7 @@ During the transfer process, assets are locked in a contract on the rootchain, a
 
 
 <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap' }}>
-  <img src="/img/edge/l1-l2-l3.excalidraw.png" alt="bridge" style={{ display: 'block', margin: '0 auto', width: '290px', height: 'auto', objectFit: 'contain', order: '2' }} />
+  <img src="img/edge/l1-l2-l3.excalidraw.png" alt="bridge" style={{ display: 'block', margin: '0 auto', width: '290px', height: 'auto', objectFit: 'contain', order: '2' }} />
   <div style={{ width: 'calc(100% - 330px)', order: '1' }}>
     <p>The following diagram provides a visual representation of how messages can be passed between different EVM blockchain layers, allowing for seamless message transfers and coordination between various components of a Super network.</p>
     <h2>How does message passing work?</h2>

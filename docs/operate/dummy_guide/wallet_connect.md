@@ -18,18 +18,18 @@ After installing MetaMask, you'll need to connect it to the Furtheon Network. He
 
 1. Open your MetaMask wallet and click on the network dropdown menu (it should initially show "Ethereum Mainnet").
 <div align="center">
-  <img src="/img/dummy_guide/guide_to_add_network_0.png" alt="guide" width="30%" height="30%" />
+  <img src="img/dummy_guide/guide_to_add_network_0.png" alt="guide" width="30%" height="30%" />
 </div>
 2. At the bottom of the dropdown menu, click on "Add Network."
 <div align="center">
-  <img src="/img/dummy_guide/guide_to_add_network_1.png" alt="guide" width="30%" height="30%" />
+  <img src="img/dummy_guide/guide_to_add_network_1.png" alt="guide" width="30%" height="30%" />
 </div>
 3. In the "Add Network" window, enter the following details for the Furtheon Network:
 <div align="center">
-  <img src="/img/dummy_guide/guide_to_add_network_2.png" alt="guide" width="80%" height="30%" />
+  <img src="img/dummy_guide/guide_to_add_network_2.png" alt="guide" width="80%" height="30%" />
 </div>
 <div align="center">
-  <img src="/img/dummy_guide/guide_to_add_network_3.png" alt="guide" width="80%" height="30%" />
+  <img src="img/dummy_guide/guide_to_add_network_3.png" alt="guide" width="80%" height="30%" />
 </div>
    - **Network Name:** Furtheon Network
    - **New RPC URL:** https://rpc.furtheon.org
@@ -41,7 +41,7 @@ After installing MetaMask, you'll need to connect it to the Furtheon Network. He
 
 You should now see the "Furtheon Network" listed in your MetaMask network dropdown menu.
 <div align="center">
-  <img src="/img/dummy_guide/guide_to_add_network_4.png" alt="guide" width="80%" height="30%" />
+  <img src="img/dummy_guide/guide_to_add_network_4.png" alt="guide" width="80%" height="30%" />
 </div>
 ## Step 3: Switch to the Furtheon Network
 

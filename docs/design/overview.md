@@ -1,7 +1,7 @@
 The diagram below illustrates the major components of Furtheon.
 
 <div align="center">
-  <img src="/img/edge/supernets-overview.excalidraw.png" alt="Furtheon architecture overview" width="850" />
+  <img src="img/edge/supernets-overview.excalidraw.png" alt="Furtheon architecture overview" width="850" />
 </div>
 
 ## Components

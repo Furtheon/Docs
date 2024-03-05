@@ -25,13 +25,13 @@ Regardless of how a private key is stored and retrieved, it's important to keep 
 ### Withdrawing from the Rootchain
 
 <div align="center">
-  <img src="/img/edge/bridge-withdraw-rootchain.excalidraw.png" alt="bridge" width="100%" height="30%" />
+  <img src="img/edge/bridge-withdraw-rootchain.excalidraw.png" alt="bridge" width="100%" height="30%" />
 </div>
 
 ### Withdrawing from the Childchain
 
 <div align="center">
-  <img src="/img/edge/bridge-withdraw-childchain.excalidraw.png" alt="bridge" width="100%" height="30%" />
+  <img src="img/edge/bridge-withdraw-childchain.excalidraw.png" alt="bridge" width="100%" height="30%" />
 </div>
 
 For a detailed understanding of how bridging works, please refer to the sequence diagrams available [<ins>here</ins>](https://github.com/0xPolygon/polygon-edge/blob/develop/docs/bridge/sequences.md).

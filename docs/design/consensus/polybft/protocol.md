@@ -118,6 +118,6 @@ With the help of PolyBFT, Furtheon supports an
 which enables arbitrary message passing between an Furtheon-powered chain and another Proof-of-Stake
 blockchain (`rootchain`). Transfers can occur without mapping.
 
-![bridge](../../../img/edge/contracts-bridge.excalidraw.png)
+![bridge](../../..img/edge/contracts-bridge.excalidraw.png)
 
 Learn more [here](../../bridge/overview.md)).
