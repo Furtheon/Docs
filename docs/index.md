@@ -28,7 +28,7 @@ The following table offers a comprehensive overview on what Furtheon-powered cha
 | Interoperable and multi-chain driven | A native bridging solution enables the seamless transfer of assets from various EVM-compatible blockchains back to the Furtheon ecosystem. This bridging solution allows developers to customize bridge plugins to meet specific requirements, facilitating interoperability between blockchains and different layers. |
 
 <div align="center">
-  <img src="/img/edge/supernets-together.excalidraw.png" alt="bridge" width="90%" height="40%" />
+  <img src="img/edge/supernets-together.excalidraw.png" alt="bridge" width="90%" height="40%" />
 </div>
 
 The diagram above demonstrates how Furtheon-powered chains are interconnected with the Furtheon PoS network, which benefits from the security properties of Ethereum. By leveraging blockchain technology, Furtheon provide a strong foundation for building decentralized and blockchain-based solutions that can withstand adversarial conditions, resist censorship, and scale to meet the increasing demand for processing power, data storage, and transaction throughput.
